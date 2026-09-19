@@ -1,1 +1,1 @@
-# My Git Practise 
+This is my first Git repository. 
